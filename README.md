@@ -1,16 +1,27 @@
-### Hi there 👋
+# 👋 Hello! My name is Roberto Corchero Aragón
+### Android Engineer
 
-<!--
-**rcorchero/rcorchero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a professional software developer for five years.
 
-Here are some ideas to get you started:
+Since I started in 2016 I have dedicated myself to specializing in mobile application development, working with various companies and creating multiple Apps. I'm pasionatte about Android, Kotlin lover, and love learn about and follow best programming practices.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+In 2018 I moved to Alcorcón, a city near Madrid (Spain), where I'm happily living since then 😁
+
+Currently I'm working as an Android Developer at [@Fintonic](https://www.fintonic.com/es-ES/inicio/).
+
+## Skills:
+
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white&labelColor=101010)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white&labelColor=101010)
+![Java](https://img.shields.io/badge/Java-DB380E?style=flat&logo=java&logoColor=white&labelColor=101010)
+![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white&labelColor=101010)</br>
+
+## Find me at:
+
+[![Web](https://img.shields.io/badge/rcorchero.com-orange?style=flat&logo=firefox&logoColor=white&labelColor=101010)](https://rcorchero.com)
+[![LinkedIn](https://img.shields.io/badge/Roberto_Corchero-0077B5?style=flat&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/rcorchero/)
+[![Twitter](https://img.shields.io/badge/@corcheroaragon-1DA1F2?style=flat&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/corcheroaragon)
+
+## Contact me:
+
+[![Email](https://img.shields.io/badge/contacto@rcorchero.com-white?style=flat&logo=gmail&logoColor=red&labelColor=101010)](mailto:contacto@rcorchero.com)
