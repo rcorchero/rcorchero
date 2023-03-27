@@ -7,7 +7,7 @@ Since I started in 2016 I have dedicated myself to specializing in mobile applic
 
 In 2018 I moved to Alcorcón, a city near Madrid (Spain), where I'm happily living since then 😁
 
-Currently I'm working as an Android Developer at [@Fintonic](https://www.fintonic.com/es-ES/inicio/).
+Currently I'm working as Senior Android Engineer at [@jobandtalent](https://www.jobandtalent.com/es).
 
 ## Skills:
 
