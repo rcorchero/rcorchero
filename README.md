@@ -24,4 +24,4 @@ Currently I'm working as Senior Android Engineer at [@jobandtalent](https://www.
 
 ## Contact me:
 
-[![Email](https://img.shields.io/badge/contacto@rcorchero.com-white?style=flat&logo=gmail&logoColor=red&labelColor=101010)](mailto:contacto@rcorchero.com)
+[![Email](https://img.shields.io/badge/r.corchero.a@gmail.com-white?style=flat&logo=gmail&logoColor=red&labelColor=101010)](mailto:r.corchero.a@gmail.com)
