@@ -18,7 +18,6 @@ Currently I'm working as Senior Android Engineer at [@jobandtalent](https://www.
 
 ## Find me at:
 
-[![Web](https://img.shields.io/badge/rcorchero.com-orange?style=flat&logo=firefox&logoColor=white&labelColor=101010)](https://rcorchero.com)
 [![LinkedIn](https://img.shields.io/badge/Roberto_Corchero-0077B5?style=flat&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/rcorchero/)
 [![Twitter](https://img.shields.io/badge/@corcheroaragon-1DA1F2?style=flat&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/corcheroaragon)
 
